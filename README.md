@@ -1,5 +1,5 @@
 # Sahithi's CSM Portfolio.
-Welcome to my portfolio! This repository showcases my work and progress throughout the course.
+Welcome to my portfolio! This repository showcases my work, assignments and progress throughout the Computer Sound and Music course.
 
 # Contents of Portfolio.
 
