@@ -131,14 +131,14 @@
 
 
 
-Portfolio Notebook Entry: Introduction on Zulip
+## Portfolio Notebook Entry: Introduction on Zulip
 
-Task: Posted an introduction in the #introductions stream on Zulip.
+## Task: Posted an introduction in the #introductions stream on Zulip.
 
-Content of the Introduction:
+## Content of the Introduction:
 "Hi everyone! I'm Sahithi Mothe. I have a passion for exploring technology, and I'm excited to learn more about computers and sound through this course. My background involves experimenting with software and digital tools, and I'm curious to see how sound and music come together with technology. Looking forward to learning and collaborating with all of you!"
 
-Reflection:
+## Reflection:
 
 - I felt good sharing my background and interests with my peers.
 - It was an opportunity to connect with others and learn about their journeys.
