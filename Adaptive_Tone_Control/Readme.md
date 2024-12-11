@@ -1,5 +1,9 @@
 # Adaptive Tone Control
 
+## Author
+
+Sahithi Mothe
+
 ## Task
 
 ad_ton_con.py Python script implements an audio band equalizer using Fast Fourier Transform (FFT) and filtering techniques. The equalizer processes an audio signal by dividing it into three frequency bands (low, mid, and high), calculates the energy in each band, and adjusts them to balance the energy across bands.

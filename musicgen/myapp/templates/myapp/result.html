@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Applied Music</title>
+  </head>
+  <body>
+    <h1>Listen to Applied Music</h1>
+    <audio id="audioPlayer" controls>
+      <source src="{{ audio_url }}" type="audio/wav" />
+      Your browser does not support the audio element.
+    </audio>
+    <br /><br />
+    <button onclick="document.getElementById('audioPlayer').play()">
+      Play
+    </button>
+    <button onclick="document.getElementById('audioPlayer').pause()">
+      Stop
+    </button>
+  </body>
+</html>

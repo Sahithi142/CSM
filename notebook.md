@@ -144,3 +144,43 @@
 - It was an opportunity to connect with others and learn about their journeys.
 - I’m excited to contribute to discussions and make the most of this course
 
+## What I learned from the course
+
+I learned how digital sound is created and processed. I now understand how audio is captured using sampling and quantization, turning sound waves into digital data. Concepts like frequency and amplitude started to make more sense, especially in how they shape the sounds we hear.
+
+Learned practical ways to work with audio, like using filters and algorithms to change or create sounds. All this showed me how programming can bring these concepts to life and gave me a clearer picture of how sound is represented and manipulated digitally. It was great learning audio processing and experimenting with sound.
+
+## Portfolio Notebook Entry: Adaptive Tone Control
+
+## Task: Implemented an audio equalizer to balance sound energy across frequency bands using FFT and filtering techniques.
+
+## What I Did:
+
+- Generated a test signal combining sine waves at 440 Hz and 1000 Hz to represent low and mid frequencies.
+- Used FFT to calculate energy in low (0–300 Hz), mid (300–2000 Hz), and high (2000+ Hz) frequency bands.
+- Designed and applied filters (low-pass, band-pass, and high-pass) to isolate these bands.
+- Adjusted band energies by calculating gain factors to balance them evenly.
+- Reconstructed the signal and visualized comparing the original and equalized versions.
+
+## Reflection:
+
+This task deepened my understanding of audio processing and its connection to concepts like compression and equalization. I also gained insights into how parameter tuning affects performance and output quality.
+
+## Portfolio Notebook Entry: Pop Music Generator
+
+## Task: Enhanced a Python-based pop music generator to create rhythmic and melodic patterns.
+
+## What I did:
+
+- Implemented waveform generation for multiple types (sine, square, sawtooth, triangle).
+- Added rhythm patterns with kick, snare, and hi-hat sounds for a more dynamic beat.
+- Synthesized melodic loops and basslines with customizable parameters for variety.
+- Enabled playback of generated music using the sounddevice library.
+
+## Reflection:
+
+- Experimenting with different waveforms and rhythms helped me understand how small changes affect the feel of the music.
+Adding rhythm patterns gave the music a more engaging and realistic sound. I enjoyed the challenge of balancing the melody, bass, and rhythm to create cohesive output.
+- This assignment inspired me to explore more features like chord variations and melody randomization in the future.
+Overall, it was fun.
+

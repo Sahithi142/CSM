@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Audio Effects</title>
+  </head>
+  <body>
+    <h1>Apply Effects to audio file</h1>
+    <form method="post" enctype="multipart/form-data">
+      {% csrf_token %} {{ form.as_table }}
+      <input type="submit" value="Process Audio" />
+    </form>
+  </body>
+</html>
