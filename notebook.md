@@ -150,6 +150,8 @@ I learned how digital sound is created and processed. I now understand how audio
 
 Learned practical ways to work with audio, like using filters and algorithms to change or create sounds. All this showed me how programming can bring these concepts to life and gave me a clearer picture of how sound is represented and manipulated digitally. It was great learning audio processing and experimenting with sound.
 
+
+
 ## Portfolio Notebook Entry: Adaptive Tone Control
 
 ## Task: Implemented an audio equalizer to balance sound energy across frequency bands using FFT and filtering techniques.
@@ -165,6 +167,8 @@ Learned practical ways to work with audio, like using filters and algorithms to 
 ## Reflection:
 
 This task deepened my understanding of audio processing and its connection to concepts like compression and equalization. I also gained insights into how parameter tuning affects performance and output quality.
+
+
 
 ## Portfolio Notebook Entry: Pop Music Generator
 
