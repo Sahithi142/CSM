@@ -7,7 +7,7 @@ This Django-based web application allows you to upload an MP3 file, apply variou
 - Python
 - Django
 - Numpy
-- Soundfile (It is included in folder for testing)
+- Soundfile (It is included in the folder for testing)
 - Pydub
 - Matplotlib
 - FFmpeg
